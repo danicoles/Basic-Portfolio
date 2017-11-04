@@ -1,5 +1,6 @@
 header {
 		background-color: #4aaaa5;
+		display: flex;
 
 }
 
@@ -8,15 +9,21 @@ section {
 	
 		width: 960px;
 		float: left;
-		margin-left: 100px;
+		
+}
+
+body {
+		width: 960px;
 }
 
 #name {
-		padding-left: 100px;
+		padding-left: 50px;
+		flex: 3;
 }
 
-#table {
-		
+#links {
+		flex: 1;
+		margin-top: 30px;
 }
 
 #div1 {
