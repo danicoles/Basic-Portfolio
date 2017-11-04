@@ -1,5 +1,6 @@
 header {
 		background-color: #4aaaa5;
+
 }
 
 section {
@@ -8,6 +9,14 @@ section {
 		width: 960px;
 		float: left;
 		margin-left: 100px;
+}
+
+#name {
+		padding-left: 100px;
+}
+
+#table {
+		
 }
 
 #div1 {
@@ -40,9 +49,10 @@ p {
 footer {
 		background-color: #666666;
 		clear: both;
-		height: 75px;
+		height: 50px;
 		text-align: center;
 		font-size: 12px;
+		padding-top: 30px;
 
 }
 
